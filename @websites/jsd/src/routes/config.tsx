@@ -64,7 +64,7 @@ export const lessonRoutes = [
     element: () => (
       <>
         <Title courseName="JSD" week={3} lesson={5} />
-        <SlidesDeck slidesDeckPath={getLessonPath('05-slackbot-lab')} />
+        <SlidesDeck slidesDeckPath={getLessonPath('05-the-dom')} />
       </>
     ),
   },
@@ -73,7 +73,7 @@ export const lessonRoutes = [
     element: () => (
       <>
         <Title courseName="JSD" week={4} lesson={6} />
-        <SlidesDeck slidesDeckPath={getLessonPath('06-the-dom')} />
+        <SlidesDeck slidesDeckPath={getLessonPath('06-dom-events')} />
       </>
     ),
   },
@@ -82,7 +82,9 @@ export const lessonRoutes = [
     element: () => (
       <>
         <Title courseName="JSD" week={4} lesson={7} />
-        <SlidesDeck slidesDeckPath={getLessonPath('07-dom-events')} />
+        <SlidesDeck
+          slidesDeckPath={getLessonPath('07-asynchronous-javascript')}
+        />
       </>
     ),
   },
@@ -91,9 +93,7 @@ export const lessonRoutes = [
     element: () => (
       <>
         <Title courseName="JSD" week={5} lesson={8} />
-        <SlidesDeck
-          slidesDeckPath={getLessonPath('08-asynchronous-javascript')}
-        />
+        <SlidesDeck slidesDeckPath={getLessonPath('08-advanced-apis')} />
       </>
     ),
   },
@@ -102,7 +102,7 @@ export const lessonRoutes = [
     element: () => (
       <>
         <Title courseName="JSD" week={5} lesson={9} />
-        <SlidesDeck slidesDeckPath={getLessonPath('09-advanced-apis')} />
+        <SlidesDeck slidesDeckPath={getLessonPath('09-templating-lab')} />
       </>
     ),
   },
@@ -111,7 +111,7 @@ export const lessonRoutes = [
     element: () => (
       <>
         <Title courseName="JSD" week={6} lesson={10} />
-        <SlidesDeck slidesDeckPath={getLessonPath('10-templating-lab')} />
+        <SlidesDeck slidesDeckPath={getLessonPath('10-feedr-lab')} />
       </>
     ),
   },
@@ -120,7 +120,9 @@ export const lessonRoutes = [
     element: () => (
       <>
         <Title courseName="JSD" week={6} lesson={11} />
-        <SlidesDeck slidesDeckPath={getLessonPath('11-feedr-lab')} />
+        <SlidesDeck
+          slidesDeckPath={getLessonPath('11-intro-to-firebase-and-crud')}
+        />
       </>
     ),
   },
@@ -141,7 +143,7 @@ export const lessonRoutes = [
       <>
         <Title courseName="JSD" week={7} lesson={13} />
         <SlidesDeck
-          slidesDeckPath={getLessonPath('13-intro-to-firebase-and-crud')}
+          slidesDeckPath={getLessonPath('13-prototypal-inheritance')}
         />
       </>
     ),
@@ -151,9 +153,7 @@ export const lessonRoutes = [
     element: () => (
       <>
         <Title courseName="JSD" week={8} lesson={14} />
-        <SlidesDeck
-          slidesDeckPath={getLessonPath('14-prototypal-inheritance')}
-        />
+        <SlidesDeck slidesDeckPath={getLessonPath('14-closures-this')} />
       </>
     ),
   },
@@ -162,7 +162,7 @@ export const lessonRoutes = [
     element: () => (
       <>
         <Title courseName="JSD" week={8} lesson={15} />
-        <SlidesDeck slidesDeckPath={getLessonPath('15-closures-this')} />
+        <SlidesDeck slidesDeckPath={getLessonPath('15-deploying-your-app')} />
       </>
     ),
   },
@@ -171,7 +171,7 @@ export const lessonRoutes = [
     element: () => (
       <>
         <Title courseName="JSD" week={9} lesson={16} />
-        <SlidesDeck slidesDeckPath={getLessonPath('16-deploying-your-app')} />
+        <SlidesDeck slidesDeckPath={getLessonPath('16-student-choice')} />
       </>
     ),
   },
@@ -180,7 +180,7 @@ export const lessonRoutes = [
     element: () => (
       <>
         <Title courseName="JSD" week={9} lesson={17} />
-        <SlidesDeck slidesDeckPath={getLessonPath('17-student-choice')} />
+        <SlidesDeck slidesDeckPath={getLessonPath('17-final-project-lab')} />
       </>
     ),
   },
@@ -189,17 +189,8 @@ export const lessonRoutes = [
     element: () => (
       <>
         <Title courseName="JSD" week={10} lesson={18} />
-        <SlidesDeck slidesDeckPath={getLessonPath('18-final-project-lab')} />
-      </>
-    ),
-  },
-  {
-    path: '/week-10/lesson-19',
-    element: () => (
-      <>
-        <Title courseName="JSD" week={10} lesson={19} />
         <SlidesDeck
-          slidesDeckPath={getLessonPath('19-final-project-presentations')}
+          slidesDeckPath={getLessonPath('18-final-project-presentations')}
         />
       </>
     ),

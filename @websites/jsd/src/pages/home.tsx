@@ -9,7 +9,7 @@ import Page from '../components/page';
 const Weeks = [
   'Installfest, the command Line & data Types',
   'Arrays, loops, conditionals & functions',
-  'Objects & JSON, Slack bot lab 🤖 🧪',
+  'Objects & JSON, The DOM',
   'The DOM',
   'Asynchronous programming & TfL API lab 🚇 🧪',
   'Template and Feedr lab 🧪',

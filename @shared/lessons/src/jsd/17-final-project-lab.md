@@ -3,16 +3,14 @@ class: frontpage
 <div>
   <h2>JavaScript Development</h2>
   <hr/>
-  <h1>11 Feedr lab</h1>
+  <h1>17 Final project lab 🧪</h1>
 </div>
 
 ---
 
-class: code-along
+class: lab
 
-## Code along
-
-Download lab [starter code](https://github.com/pataruco/jsd/raw/master/labs/feedr-1.5/feedr-1.5-starter-code.zip)
+# Final project lab
 
 ---
 

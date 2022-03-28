@@ -30,7 +30,7 @@
     "postbuild": "yarn ts-node ./scripts/copy-files.ts",
     "postinstall": "yarn build",
     "prebuild": "rm -rf ./dist",
-    "present": "(yarn serve -p 8000) & (yarn ts-node ./slides-viewer/index.ts)"
+    "present": "(yarn serve --cors -p 8000) & (yarn ts-node ./slides-viewer/index.ts)"
   },
   "main": "./dist/index.js",
   "files": [

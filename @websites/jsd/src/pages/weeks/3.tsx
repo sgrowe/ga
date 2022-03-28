@@ -38,7 +38,7 @@ const weekConfig = {
   bonuses,
   firstLessonTitle: 'Objects and JSON',
   resources,
-  secondLessonTitle: 'Slack Bot lab 🤖 🧪',
+  secondLessonTitle: 'The DOM',
   weekNumber: 3,
   homeworkPath: '/week-3/lesson-5#4',
 };

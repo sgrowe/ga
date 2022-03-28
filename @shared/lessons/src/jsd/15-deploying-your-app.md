@@ -3,7 +3,7 @@ class: frontpage
 <div>
   <h2>JavaScript Development</h2>
   <hr/>
-  <h1>16 Deploying your app</h1>
+  <h1>15 Deploying your app</h1>
 </div>
 
 ---

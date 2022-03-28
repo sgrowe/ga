@@ -3,7 +3,7 @@ class: frontpage
 <div>
   <h2>JavaScript Development</h2>
   <hr/>
-  <h1>14 Prototypal inheritance</h1>
+  <h1>13 Prototypal inheritance</h1>
 </div>
 
 ---
@@ -82,7 +82,7 @@ class: code-along
 
 # Code along
 
-<a 
+<a
   href="https://github.com/pataruco/jsd/raw/master/labs/prototypal-inheritance/prototypal-inheritance-starter-code.zip" class="download-link">
 Download labs
 </a>

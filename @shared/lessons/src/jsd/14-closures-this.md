@@ -3,7 +3,7 @@ class: frontpage
 <div>
   <h2>JavaScript Development</h2>
   <hr/>
-  <h1>15 Closures and this</h1>
+  <h1>14 Closures and this</h1>
 </div>
 
 ---
@@ -103,7 +103,7 @@ class: code-along
 
 # Code along
 
-<a 
+<a
   href="https://github.com/pataruco/jsd/raw/master/labs/closures-this/closures-this-solution-code.zip"
   class="download-link">Download labs
 </a>

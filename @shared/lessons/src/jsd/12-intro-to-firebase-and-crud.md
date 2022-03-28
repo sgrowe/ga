@@ -3,7 +3,8 @@ class: frontpage
 <div>
   <h2>JavaScript Development</h2>
   <hr/>
-  <h1>12 Intro to Firebase <wbr>& CRUD</h1>
+  <h1>12 Firebase lab &#x1F9EA;</h1>
+
 </div>
 
 ---

@@ -3,14 +3,8 @@ class: frontpage
 <div>
   <h2>JavaScript Development</h2>
   <hr/>
-  <h1>18 Final project lab 🧪</h1>
+  <h1>16 Student choice</h1>
 </div>
-
----
-
-class: lab
-
-# Final project lab
 
 ---
 

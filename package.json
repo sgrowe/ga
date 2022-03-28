@@ -26,6 +26,7 @@
   "private": true,
   "repository": "git@github.com:pataruco/ga.git",
   "scripts": {
+    "start": "yarn workspace @shared/lessons build && yarn workspace @websites/jsd start",
     "postinstall": "husky install"
   },
   "version": "1.0.0",

@@ -3,7 +3,7 @@ class: frontpage
 <div>
   <h2>JavaScript Development</h2>
   <hr/>
-  <h1>08 Asynchronous JavaScript</h1>
+  <h1>07 Asynchronous JavaScript</h1>
 </div>
 
 ---

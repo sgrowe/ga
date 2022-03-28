@@ -3,7 +3,7 @@ class: frontpage
 <div>
   <h2>JavaScript Development</h2>
   <hr/>
-  <h1>07 DOM Events</h1>
+  <h1>06 DOM Events</h1>
 </div>
 
 ---
@@ -178,5 +178,5 @@ class: frontpage
 <div>
   <h2>JavaScript Development</h2>
   <hr/>
-  <h1>07 DOM Events</h1>
+  <h1>06 DOM Events</h1>
 </div>

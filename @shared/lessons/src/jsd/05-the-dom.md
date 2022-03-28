@@ -3,7 +3,7 @@ class: frontpage
 <div>
   <h2>JavaScript Development</h2>
   <hr/>
-  <h1>06 The DOM</h1>
+  <h1>05 The DOM</h1>
 </div>
 
 ---

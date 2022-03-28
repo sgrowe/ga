@@ -3,7 +3,7 @@ class: frontpage
 <div>
   <h2>JavaScript Development</h2>
   <hr/>
-  <h1>10 Templating lab</h1>
+  <h1>09 Templating lab</h1>
 </div>
 
 ---

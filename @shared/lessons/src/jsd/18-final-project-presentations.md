@@ -3,7 +3,7 @@ class: frontpage
 <div>
   <h2>JavaScript Development</h2>
   <hr/>
-  <h1>19 Final presentations</h1>
+  <h1>18 Final presentations</h1>
 </div>
 
 ---
